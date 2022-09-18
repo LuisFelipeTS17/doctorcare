@@ -165,7 +165,7 @@ body.menu-expanded #navi .logo path,
 }
 
 #navi.scroll button.open-menu path[stroke*="#00856F"] {
-  fill: white;
+  stroke: white;
 }
 
 /*====NAVIGATION======*/
