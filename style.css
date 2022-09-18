@@ -149,12 +149,12 @@ section .content p {
   fill: var(--brand-light);
 }
 
-#navi .logo path[fill*="#00856F"],
+#navi .logo path[fill*='#00856F'],
 #backToTopButton circle {
   fill: var(--primary-color);
 }
 
-button.open-menu path[stroke*="#00856F"],
+button.open-menu path[stroke*='#00856F'],
 #contact li path {
   stroke: var(--primary-color);
 }
@@ -164,7 +164,7 @@ body.menu-expanded #navi .logo path,
   fill: white;
 }
 
-#navi.scroll button.open-menu path[stroke*="#00856F"] {
+#navi.scroll button.open-menu path[stroke*='#00856F'] {
   stroke: white;
 }
 
