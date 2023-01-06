@@ -2,7 +2,7 @@
 <p align="center">Aplicação no formato de landing page, responsiva.</p> <br />
 
 ### ☁️ Deploy:
-O <a href="https://lucasdam.github.io/doctor-care">Doctor Care</a> está hospedado no GitHub Pages.
+O <a href="https://luisfelipets17.github.io/doctorcare/">Doctor Care</a> está hospedado no GitHub Pages.
 <br /> <br />
 
 ### 💻 Projeto:
